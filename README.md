@@ -13,7 +13,7 @@
 
 * How many votes were cast in this congressional election?  The total number of votes cast is 369,711 votes.
 
-![alt text](https://github.com/[paulerlic]/[election-analysis-]/blob/[main]/Canidate Breakdown.png?raw=true)
+![alt text](https://github.com/[paulerlic]/[election-analysis-]/blob/[main]/CanidateBreakdown.png?raw=true)
 
 * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
