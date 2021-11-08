@@ -1,11 +1,10 @@
-###Election Audit Overview
-
-##The purpouse of this audit is as follows:
-# 1. Help Seth and Tom submit the election audit results to the election commission.
-# 2. Determine a winner for the election. 
-# 3. Determine the voter turnout for each county.
-# 4. Determine the percentage of votes from each county out of the count.
-# 5. Determine which county had the highest turnout.
+#Election Audit Overview
+  ##The purpouse of this audit is as follows:
+  ### 1. Help Seth and Tom submit the election audit results to the election commission.
+  ### 2. Determine a winner for the election. 
+  ### 3. Determine the voter turnout for each county.
+  ### 4. Determine the percentage of votes from each county out of the count. 
+  ### 5. Determine which county had the highest turnout.
 
 
 ###Election Audit Results
